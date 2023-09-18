@@ -1,0 +1,21 @@
+{
+  "name": "js_weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html -p 8005 --open",
+    "build": "parcel build ./src/index.html"
+  },
+  "keywords": [
+    "weather",
+    "js"
+  ],
+  "author": "gettis",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.63.6"
+  }
+}

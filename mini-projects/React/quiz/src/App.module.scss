@@ -1,0 +1,10 @@
+$size: 150px;
+
+.popper__img {
+  background-image: url("../public/images/popper.png");
+  background-position: center;
+  background-size: $size $size;
+  background-repeat: no-repeat;
+  width: $size;
+  height: $size;
+}

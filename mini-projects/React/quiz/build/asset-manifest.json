@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ec9a94f.css",
+    "main.js": "/static/js/main.b95583db.js",
+    "static/media/popper.png": "/static/media/popper.2cc8a069f2c78d9114c4.png",
+    "index.html": "/index.html",
+    "main.3ec9a94f.css.map": "/static/css/main.3ec9a94f.css.map",
+    "main.b95583db.js.map": "/static/js/main.b95583db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec9a94f.css",
+    "static/js/main.b95583db.js"
+  ]
+}

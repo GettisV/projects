@@ -1,0 +1,23 @@
+*, :before, :after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  background: url("background.dbc297d5.jpg") center / cover no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+.window {
+  background-color: #ffffffb3;
+  border-radius: 30px;
+  width: 500px;
+  height: 300px;
+  position: fixed;
+  top: calc(50% - 150px);
+  left: calc(50% - 250px);
+}
+
+/*# sourceMappingURL=index.5525e4b8.css.map */
